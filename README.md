@@ -1,4 +1,4 @@
-# ♟️ Pawned Empire – A Chess Blitz Game
+# ♟️ Pawned Empire – Every empire begins with a move.
 
 A **modern, responsive chess blitz game** built using **React**, **TypeScript**, and **Tailwind CSS** — designed and developed from scratch in just **4 hours**.  
 Strategic gameplay meets clean code, styled UI, and scalable architecture.
@@ -19,4 +19,15 @@ Strategic gameplay meets clean code, styled UI, and scalable architecture.
 - **Build Tool**: Vite
 
 ## 📁 Folder Structure
+
+pawned-empire/
+├── public/ # Static assets & favicon
+├── src/
+│ ├── components/ # Reusable UI components
+│ ├── pages/ # Main game views/pages
+│ ├── styles/ # Tailwind/theme styles
+│ └── main.tsx # App entry point
+├── package.json
+└── vite.config.ts
+
 
